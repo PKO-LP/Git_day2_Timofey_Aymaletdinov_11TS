@@ -1,2 +1,4 @@
-n = int(input())
-print(n % 10)
+N = input()
+LD = N[-1]
+
+print(LD)
